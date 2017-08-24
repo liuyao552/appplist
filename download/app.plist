@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://omzo595hi.bkt.clouddn.com/ionic2_tabs.ipa</string>
+                                        <string>https://raw.githubusercontent.com/liuyao552/iosipa/master/xjt.ipa</string>
                                 </dict>
                                 <dict>
                                    <key>kind</key>
@@ -33,13 +33,13 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.kit.ionic2tabs</string>
+                                <string>xiaojiantong.com</string>
                                 <key>bundle-version</key>
-                                <string>0.0.1</string>
+                                <string>3.5</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>ionic2_tabs</string>
+                                <string>消检通</string>
                         </dict>
                 </dict>
         </array>
